@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Current Affiliation
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Associate Professor, Department of Statistics, Seoul National University
+
+### Research interests
+* High-performance statistical computing
+* Optimization - MM algorithms, proximal algorithms
+* Machine learning
+* Image processing
+
+### Ph.D. Students
+1. Dr. Seyoon Ko, "Easily parallelizable statistical computing methods and their applications in modern high-performance computing environments," *Best Dissertation Award*, August 2020, Postdoctoral Fellow, UCLA Dept. of Biostatistics, USA
+2. Dr. Youngwon Choi, "Deep learning from structured data," August 2020, Postdoctoral Fellow, UCLA Center for Vision & Imaging Biomarkers, USA
