@@ -5,9 +5,9 @@ title: "Recent Publication"
 
 * J. Won, H. Zhou, K. Lange. Orthogonal Trace-Sum Maximization: Applications, Local Algorithms, and Global Optimality. SIAM J. Matrix Anal. Appl., accepted. [[preprint](https://arxiv.org/abs/1811.03521)] [[code]](https://github.com/Hua-Zhou/OTSM.jl)
 
-* K. Lange, J. Won, A. Landeros, H. Zhou. Nonconvex Optimization via MM Algorithms: Convergence Theory. [Wiley StatsRef.](https://doi.org/10.1002/9781118445112.stat08295), 2021. 
+* K. Lange, J. Won, A. Landeros, H. Zhou. Nonconvex Optimization via MM Algorithms: Convergence Theory. [Wiley StatsRef.](https://doi.org/10.1002/9781118445112.stat08295) 2021. 
 	
-* J. Won. Proximity operator of the matrix perspective function and its applications. [Adv. Neural Inform. Process. Syst. (NeurIPS 2020)](https://papers.nips.cc/paper/2020/hash/45f31d16b1058d586fc3be7207b58053-Abstract.html), 2020. [[video]](https://neurips.cc/virtual/2020/public/poster_45f31d16b1058d586fc3be7207b58053.html) [[code]](https://github.com/won-j/MatrixPerspective.jl)
+* J. Won. Proximity operator of the matrix perspective function and its applications. [Adv. Neural Inform. Process. Syst. (NeurIPS 2020)](https://papers.nips.cc/paper/2020/hash/45f31d16b1058d586fc3be7207b58053-Abstract.html) 2020. [[video]](https://neurips.cc/virtual/2020/public/poster_45f31d16b1058d586fc3be7207b58053.html) [[code]](https://github.com/won-j/MatrixPerspective.jl)
 
 * J. Won, S. Kim. Robust trade-off portfolio selection. [Optim. Eng.](https://doi.org/10.1007/s11081-020-09485-z) 2020:21, 867–904.
 
@@ -19,7 +19,7 @@ title: "Recent Publication"
 
 * J. Won, J. Xu, K. Lange. Projection onto Minkowski sums with application to constrained learning. [Int. Conf. Mach. Learn. (ICML 2019)](http://proceedings.mlr.press/v97/lange19a.html). PMLR 2019:97, 3642-3651. [[slides]](https://icml.cc/media/Slides/icml/2019/103(11-14-00)-11-14-00-4664-projection_onto.pdf)  [[video]](https://slideslive.com/38917651/convex-optimization) [[code]](https://github.com/won-j/MinkowskiProjection)
 
-* S. Ko, J. Won. Optimal Minimization of the Sum of Three Convex Functions with a Linear Operator. [Int. Conf. Artif. Intell. Statist. (AISTATS 2019)](http://proceedings.mlr.press/v89/ko19a.html). PMLR 2019:89, 1185-1194. 
+* S. Ko, J. Won. Optimal Minimization of the Sum of Three Convex Functions with a Linear Operator. [Int. Conf. Artif. Intell. Statist. (AISTATS 2019)](http://proceedings.mlr.press/v89/ko19a.html). PMLR 2019:89, 1185-1194. [[code]](https://github.com/kose-y/dist-primal-dual)
 
 * Y. Choi, J. Won. Ornstein Auto-Encoders. [Int. Joint Conf. Artif. Intell. (IJCAI 2019)](https://doi.org/10.24963/ijcai.2019/301). 2019, 2172-2178.
 
