@@ -3,6 +3,8 @@ permalink: /publication/
 title: "Recent Publication"
 ---
 
+* Y. Choi, S. Lee, J. Won. Learning from Nested Data with Ornstein Auto-Encoders. Int. Conf. Mach. Learn. (ICML 2021), accepted.
+
 * J. Won, H. Zhou, K. Lange. Orthogonal Trace-Sum Maximization: Applications, Local Algorithms, and Global Optimality. SIAM J. Matrix Anal. Appl., accepted. [[preprint](https://arxiv.org/abs/1811.03521)] [[code]](https://github.com/Hua-Zhou/OTSM.jl)
 
 * K. Lange, J. Won, A. Landeros, H. Zhou. Nonconvex Optimization via MM Algorithms: Convergence Theory. [Wiley StatsRef.](https://doi.org/10.1002/9781118445112.stat08295) 2021. 

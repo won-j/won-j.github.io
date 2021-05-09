@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-### Current Affiliation
+### Current Position
 
 Associate Professor, Department of Statistics, Seoul National University
 
