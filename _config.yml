@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Joong-Ho Won"
   avatar : "/assets/images/me_smaller.png"
-  bio    : "statistics and computing."
+  #bio    : "statistics and computing."
+  bio    : "proudly crunching numbers."
   location : "Seoul, Korea"
   links:
     - label: "Email"
