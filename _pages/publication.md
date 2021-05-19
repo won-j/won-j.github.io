@@ -9,17 +9,17 @@ title: "Recent Publications"
 
 * K. Lange, J. Won, A. Landeros, H. Zhou. Nonconvex Optimization via MM Algorithms: Convergence Theory. [Wiley StatsRef.](https://doi.org/10.1002/9781118445112.stat08295) 2021. 
 	
-* J. Won. Proximity operator of the matrix perspective function and its applications. [Adv. Neural Inform. Process. Syst. 33 (NeurIPS 2020)](https://papers.nips.cc/paper/2020/hash/45f31d16b1058d586fc3be7207b58053-Abstract.html) 2020. [[video]](https://neurips.cc/virtual/2020/public/poster_45f31d16b1058d586fc3be7207b58053.html) [[code]](https://github.com/won-j/MatrixPerspective.jl)
+* J. Won. Proximity Operator of the Matrix Perspective Function and its Applications. [Adv. Neural Inform. Process. Syst. 33 (NeurIPS 2020)](https://papers.nips.cc/paper/2020/hash/45f31d16b1058d586fc3be7207b58053-Abstract.html), 2020. [[video]](https://neurips.cc/virtual/2020/public/poster_45f31d16b1058d586fc3be7207b58053.html) [[code]](https://github.com/won-j/MatrixPerspective.jl)
 
-* J. Won, S. Kim. Robust trade-off portfolio selection. [Optim. Eng.](https://doi.org/10.1007/s11081-020-09485-z) 21:867–904, 2020.
+* J. Won, S. Kim. Robust Trade-off Portfolio selection. [Optim. Eng.](https://doi.org/10.1007/s11081-020-09485-z) 21:867–904, 2020.
 
-* E. K. Ryu, S. Ko, J. Won. Splitting with near-circulant linear systems: Applications to total variation CT and PET. [SIAM J. Sci. Comput.](https://doi.org/10.1137/18M1224003) 42(1):B185-B206, 2020.
+* E. K. Ryu, S. Ko, J. Won. Splitting with Near-Circulant Linear Systems: Applications to Total Variation CT and PET. [SIAM J. Sci. Comput.](https://doi.org/10.1137/18M1224003) 42(1):B185-B206, 2020.
 
 * Y. Kwon, W. Kim, J. Won, M. C. Paik. Principled Learning Method for Wasserstein Distributionally Robust Optimization with Local Perturbations. [Int. Conf. Mach. Learn. (ICML 2020)](http://proceedings.mlr.press/v119/kwon20a.html), PMLR 119:5567-5576, 2020.
 
-* Y. Kwon, J. Won, B. J. Kim, M. C. Paik. Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation. [Comput. Stat. Data Anal.](https://doi.org/10.1016/j.csda.2019.106816) 142:106816, 2020. 
+* Y. Kwon, J. Won, B. J. Kim, M. C. Paik. Uncertainty Quantification using Bayesian Neural Networks in Classification: Application to biomedical image segmentation. [Comput. Stat. Data Anal.](https://doi.org/10.1016/j.csda.2019.106816) 142:106816, 2020. 
 
-* J. Won, J. Xu, K. Lange. Projection onto Minkowski sums with application to constrained learning. [Int. Conf. Mach. Learn. (ICML 2019)](http://proceedings.mlr.press/v97/lange19a.html), PMLR 97:3642-3651, 2019. [[slides]](https://icml.cc/media/Slides/icml/2019/103(11-14-00)-11-14-00-4664-projection_onto.pdf)  [[video]](https://slideslive.com/38917651/convex-optimization) [[code]](https://github.com/won-j/MinkowskiProjection)
+* J. Won, J. Xu, K. Lange. Projection onto Minkowski Sums with Application to Constrained Learning. [Int. Conf. Mach. Learn. (ICML 2019)](http://proceedings.mlr.press/v97/lange19a.html), PMLR 97:3642-3651, 2019. [[slides]](https://icml.cc/media/Slides/icml/2019/103(11-14-00)-11-14-00-4664-projection_onto.pdf)  [[video]](https://slideslive.com/38917651/convex-optimization) [[code]](https://github.com/won-j/MinkowskiProjection)
 
 * S. Ko, J. Won. Optimal Minimization of the Sum of Three Convex Functions with a Linear Operator. [Int. Conf. Artif. Intell. Statist. (AISTATS 2019)](http://proceedings.mlr.press/v89/ko19a.html). PMLR 89:1185-1194, 2019. [[code]](https://github.com/kose-y/dist-primal-dual)
 
@@ -33,6 +33,6 @@ title: "Recent Publications"
 
 * T. Lee, J. Won, J. Lim, S. Yoon. Large-Scale Structured Sparsity via Parallel Fused Lasso on Multiple GPUs. [J. Comput. Graph. Stat.](https://doi.org/10.1080/10618600.2017.1328363) 26(4):851-864, 2017. 
 
-* J. Won, X. Wu, S. H. Lee, Y. Lu. Cross-sectional design with a short-term follow-up for prognostic imaging biomarkers. [Comput. Stat. Data Anal.](
+* J. Won, X. Wu, S. H. Lee, Y. Lu. Cross-sectional Design with a Short-term Follow-up for Prognostic Imaging Biomarkers. [Comput. Stat. Data Anal.](
 http://doi.org/10.1016/j.csda.2016.12.017) 113:154-176, 2017.
 
