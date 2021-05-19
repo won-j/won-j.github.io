@@ -11,7 +11,7 @@ title: "Recent Publications"
 	
 * J. Won. Proximity Operator of the Matrix Perspective Function and its Applications. [Adv. Neural Inform. Process. Syst. 33 (NeurIPS 2020)](https://papers.nips.cc/paper/2020/hash/45f31d16b1058d586fc3be7207b58053-Abstract.html), 2020. [[video]](https://neurips.cc/virtual/2020/public/poster_45f31d16b1058d586fc3be7207b58053.html) [[code]](https://github.com/won-j/MatrixPerspective.jl)
 
-* J. Won, S. Kim. Robust Trade-off Portfolio selection. [Optim. Eng.](https://doi.org/10.1007/s11081-020-09485-z) 21:867–904, 2020.
+* J. Won, S. Kim. Robust Trade-off Portfolio Selection. [Optim. Eng.](https://doi.org/10.1007/s11081-020-09485-z) 21:867–904, 2020.
 
 * E. K. Ryu, S. Ko, J. Won. Splitting with Near-Circulant Linear Systems: Applications to Total Variation CT and PET. [SIAM J. Sci. Comput.](https://doi.org/10.1137/18M1224003) 42(1):B185-B206, 2020.
 
