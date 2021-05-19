@@ -17,7 +17,7 @@ title: "Recent Publications"
 
 * Y. Kwon, W. Kim, J. Won, M. C. Paik. Principled Learning Method for Wasserstein Distributionally Robust Optimization with Local Perturbations. [Int. Conf. Mach. Learn. (ICML 2020)](http://proceedings.mlr.press/v119/kwon20a.html), PMLR 119:5567-5576, 2020.
 
-* Y. Kwon, J. Won, B. J. Kim, M. C. Paik. Uncertainty Quantification using Bayesian Neural Networks in Classification: Application to biomedical image segmentation. [Comput. Stat. Data Anal.](https://doi.org/10.1016/j.csda.2019.106816) 142:106816, 2020. 
+* Y. Kwon, J. Won, B. J. Kim, M. C. Paik. Uncertainty Quantification using Bayesian Neural Networks in Classification: Application to Biomedical Image Segmentation. [Comput. Stat. Data Anal.](https://doi.org/10.1016/j.csda.2019.106816) 142:106816, 2020. 
 
 * J. Won, J. Xu, K. Lange. Projection onto Minkowski Sums with Application to Constrained Learning. [Int. Conf. Mach. Learn. (ICML 2019)](http://proceedings.mlr.press/v97/lange19a.html), PMLR 97:3642-3651, 2019. [[slides]](https://icml.cc/media/Slides/icml/2019/103(11-14-00)-11-14-00-4664-projection_onto.pdf)  [[video]](https://slideslive.com/38917651/convex-optimization) [[code]](https://github.com/won-j/MinkowskiProjection)
 
