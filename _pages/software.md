@@ -3,6 +3,13 @@ permalink: /software/
 title: "Software"
 ---
 
+* [ParProx.jl](https://kose-y.github.io/ParProx.jl)
+	+ Julia package for penalized logistic regression and Cox proportional hazard regression using the proximal gradient method developed for [omics studies](https://doi.org/10.1093/bib/bbab256). 
+	Supports plain lasso and group lasso penalties (groups may overlap). [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
+
+* [dist_stat](https://github.com/kose-y/dist_stat)
+	+  Python package distributed computation based on the [distributed](https://pytorch.org/tutorials/beginner/dist_overview.html) submodule of [PyTorch](https://pytorch.org). Supports distributed matrix data structure (`distmat`) and operations. [[tutorial]](https://mybinder.org/v2/gh/kose-y/dist_stat/master?filepath=pytorch-dist-workshop.ipynb)
+
 * [OTSM.jl](https://github.com/Hua-Zhou/OTSM.jl)
 	+ Julia package for [orthogonal trace-sum maximization](https://arxiv.org/abs/1811.03521) (with Hua Zhou)
 
