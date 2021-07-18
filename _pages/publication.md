@@ -7,7 +7,7 @@ title: "Recent Publications"
 
 * S. Ko, G. X. Li, H. Choi, J. Won. Computationally Scalable Regression Modeling for Ultrahigh-dimensional Omics Data with ParProx. [Brief. Bioinform.](https://doi.org/10.1093/bib/bbab256), p. bbab256, 2021. [[code]](https://github.com/kose-y/ParProx.jl) [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
 
-* Y. Choi, S. Lee, J. Won. Learning from Nested Data with Ornstein Auto-Encoders. Int. Conf. Mach. Learn. (ICML 2021), accepted.
+* Y. Choi, S. Lee, J. Won. Learning from Nested Data with Ornstein Auto-Encoders. [Int. Conf. Mach. Learn. (ICML 2021)](http://proceedings.mlr.press/v139/choi21a.html), PMLR 139:1943-1952, 2021.
 
 * J. Won, H. Zhou, K. Lange. Orthogonal Trace-Sum Maximization: Applications, Local Algorithms, and Global Optimality. [SIAM J. Matrix Anal. Appl.](http://doi.org/10.1137/20M1363388) 42(2), 859–882, 2021. [[preprint]](https://arxiv.org/abs/1811.03521) [[code]](https://github.com/Hua-Zhou/OTSM.jl)
 
