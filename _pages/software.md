@@ -3,7 +3,7 @@ permalink: /software/
 title: "Software"
 ---
 
-* [ParProx.jl](https://kose-y.github.io/ParProx.jl)
+* [ParProx.jl](https://github.com/kose-y/ParProx.jl)
 	+ Julia package for penalized logistic regression and Cox proportional hazard regression using the proximal gradient method developed for [omics studies](https://doi.org/10.1093/bib/bbab256). 
 	Supports plain lasso and group lasso penalties (groups may overlap). [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
 
