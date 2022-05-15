@@ -3,6 +3,8 @@ permalink: /publication/
 title: "Recent Publications"
 ---
 
+* Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. Int. Conf. Mach. Learn. (ICML 2022), to appear.
+
 * S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://www.e-publications.org/ims/submission/STS/user/submissionFile/43799?confirm=23c34361), to appear. [[code]](https://github.com/kose-y/dist_stat)
 
 * S. Ko, G. X. Li, H. Choi, J. Won. Computationally Scalable Regression Modeling for Ultrahigh-dimensional Omics Data with ParProx. [Brief. Bioinform.](https://doi.org/10.1093/bib/bbab256) 22(6), bbab256, 2021. [[code]](https://github.com/kose-y/ParProx.jl) [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
