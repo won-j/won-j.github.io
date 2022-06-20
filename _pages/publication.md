@@ -3,7 +3,9 @@ permalink: /publication/
 title: "Recent Publications"
 ---
 
-* Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. Int. Conf. Mach. Learn. (ICML 2022), to appear.
+* J. Won, T. Zhang, H. Zhou. Orthogonal Trace-Sum Maximization: Tightness of the Semidefinite Relaxation and Guarantee of Locally Optimal Solutions. *SIAM J. Optim.* Accepted for publication. [[preprint]](https://arxiv.org/abs/2110.05701) [[code]](https://github.com/Hua-Zhou/OTSM.jl)
+
+* Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. *Int. Conf. Mach. Learn.* (*ICML 2022*), to appear.
 
 * S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://www.e-publications.org/ims/submission/STS/user/submissionFile/43799?confirm=23c34361), to appear. [[code]](https://github.com/kose-y/dist_stat)
 
