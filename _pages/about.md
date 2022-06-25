@@ -5,7 +5,7 @@ title: "About"
 
 ### Current Position
 
-Associate Professor, Department of Statistics, Seoul National University
+Professor, Department of Statistics, Seoul National University
 
 ### Research interests
 * High-performance statistical computing
