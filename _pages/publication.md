@@ -3,11 +3,13 @@ permalink: /publication/
 title: "Recent Publications"
 ---
 
+* J. Won, K. Lange, J. Xu. A Unified Analysis of Convex and Non-convex $\ell_p$-ball Projection Problems. *Optim. Lett.* Accepted for publication. [[preprint]](https://arxiv.org/abs/2203.00564) [[code]](https://github.com/won-j/LpBallProjection)
+
 * J. Won, T. Zhang, H. Zhou. Orthogonal Trace-Sum Maximization: Tightness of the Semidefinite Relaxation and Guarantee of Locally Optimal Solutions. *SIAM J. Optim.* Accepted for publication. [[preprint]](https://arxiv.org/abs/2110.05701) [[code]](https://github.com/Hua-Zhou/OTSM.jl)
 
-* Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. *Int. Conf. Mach. Learn.* (*ICML 2022*), to appear. [[preprint]](https://arxiv.org/abs/2206.12663)
+* Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. [Int. Conf. Mach. Learn. (ICML 2022)](https://proceedings.mlr.press/v162/lee22f.html), PMLR 162:12423-12454, 2022. [[preprint]](https://arxiv.org/abs/2206.12663)
 
-* S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://www.e-publications.org/ims/submission/STS/user/submissionFile/43799?confirm=23c34361), to appear. [[preprint]](https://arxiv.org/abs/2001.01916)  [[code]](https://github.com/kose-y/dist_stat)
+* S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://www.e-publications.org/ims/submission/STS/user/submissionFile/43799?confirm=23c34361), 2022, to appear. [[preprint]](https://arxiv.org/abs/2001.01916)  [[code]](https://github.com/kose-y/dist_stat)
 
 * S. Ko, G. X. Li, H. Choi, J. Won. Computationally Scalable Regression Modeling for Ultrahigh-dimensional Omics Data with ParProx. [Brief. Bioinform.](https://doi.org/10.1093/bib/bbab256) 22(6), bbab256, 2021. [[code]](https://github.com/kose-y/ParProx.jl) [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
 
