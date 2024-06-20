@@ -5,7 +5,7 @@ title: "About"
 
 ### Current Position
 
-Professor, Department of Statistics, Seoul National University
+Professor of Statistics, Seoul National University
 
 ### Research interests
 * High-performance statistical computing
@@ -14,5 +14,6 @@ Professor, Department of Statistics, Seoul National University
 * Image processing
 
 ### Ph.D. Students
-1. Dr. Seyoon Ko, "Easily parallelizable statistical computing methods and their applications in modern high-performance computing environments," *Best Dissertation Award*, August 2020, Postdoctoral Fellow, UCLA Dept. of Biostatistics, USA
+1. Dr. Seyoon Ko, "Easily parallelizable statistical computing methods and their applications in modern high-performance computing environments," *Best Dissertation Award*, August 2020, Assistant Professor, UCLA Dept. of Mathematics, USA
 2. Dr. Youngwon Choi, "Deep learning from structured data," August 2020, Postdoctoral Fellow, UCLA Center for Vision & Imaging Biomarkers, USA
+3. Dr. Sungdon Lee, "HP-ACCORD: graphical model selection through rethinking pseudolikelihood-based approaches and high-performance computing," *Best Dissertation Award*, August 2023, Postdoctoral Fellow, School of Medicine, National University of Singapore, Singapore.

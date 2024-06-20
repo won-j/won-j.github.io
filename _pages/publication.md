@@ -1,15 +1,21 @@
 ---
 permalink: /publication/
-title: "Recent Publications"
+title: "Recent Publications and Preprints"
 ---
 
-* J. Won, K. Lange, J. Xu. A Unified Analysis of Convex and Non-convex $\ell_p$-ball Projection Problems. *Optim. Lett.* Accepted for publication. [[preprint]](https://arxiv.org/abs/2203.00564) [[code]](https://github.com/won-j/LpBallProjection)
+* H. Lee, Y. Seong, S. Lee, J. Won. StrWAEs to Invariant Representations. [Int. Conf. Mach. Learn. (ICML 2024)](https://icml.cc/virtual/2024/poster/33262), 2024. [[ArXiv]]()
 
-* J. Won, T. Zhang, H. Zhou. Orthogonal Trace-Sum Maximization: Tightness of the Semidefinite Relaxation and Guarantee of Locally Optimal Solutions. *SIAM J. Optim.* Accepted for publication. [[preprint]](https://arxiv.org/abs/2110.05701) [[code]](https://github.com/Hua-Zhou/OTSM.jl)
+* J. Kim, J. Kwon, M. Cho, H. Lee, J. Won. $t^3$-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence. [Int. Conf. Learn. Represent. (ICLR 2024)](https://iclr.cc/virtual/2024/poster/18623), 2024. [[ArXiv]](https://arxiv.org/abs/2312.01133)
+
+* J. Won, J. Jung. On the Correctness of the Generalized Isotonic Recursive Partitioning Algorithm. 2024. [[preprint]](https://arxiv.org/abs/2401.04847)
+
+* J. Won, K. Lange, J. Xu. A Unified Analysis of Convex and Non-convex $\ell_p$-ball Projection Problems. [Optim. Lett.](https://doi.org/10.1007/s11590-022-01919-0) 17:1133–1159, 2023. [[preprint]](https://arxiv.org/abs/2203.00564) [[code]](https://github.com/won-j/LpBallProjection)
+
+* J. Won, T. Zhang, H. Zhou. Orthogonal Trace-Sum Maximization: Tightness of the Semidefinite Relaxation and Guarantee of Locally Optimal Solutions. [SIAM J. Optim.](https://doi.org/10.1137/21M1422707) 32(3):2180–2207, 2022. [[preprint]](https://arxiv.org/abs/2110.05701) [[code]](https://github.com/Hua-Zhou/OTSM.jl)
 
 * Y. Lee, S. Lee, J. Won. Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert. [Int. Conf. Mach. Learn. (ICML 2022)](https://proceedings.mlr.press/v162/lee22f.html), PMLR 162:12423-12454, 2022. [[ArXiv]](https://arxiv.org/abs/2206.12663) for typo-corrected version.
 
-* S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://www.e-publications.org/ims/submission/STS/user/submissionFile/43799?confirm=23c34361), 2022, to appear. [[preprint]](https://arxiv.org/abs/2001.01916)  [[code]](https://github.com/kose-y/dist_stat)
+* S. Ko, H. Zhou, J. Zhou, J. Won. High-Performance Statistical Computing in the Computing Environments of the 2020s. [Statistical Science](https://doi.org/10.1214/21-STS835), 37(4):494–518, 2022. [[preprint]](https://arxiv.org/abs/2001.01916)  [[code]](https://github.com/kose-y/dist_stat)
 
 * S. Ko, G. X. Li, H. Choi, J. Won. Computationally Scalable Regression Modeling for Ultrahigh-dimensional Omics Data with ParProx. [Brief. Bioinform.](https://doi.org/10.1093/bib/bbab256) 22(6), bbab256, 2021. [[code]](https://github.com/kose-y/ParProx.jl) [[manual]](https://kose-y.github.io/ParProx.jl/dev/)
 
