@@ -7,7 +7,7 @@ title: "About"
 
 Professor of Statistics, Seoul National University
 
-### Research interests
+### Research Interests
 * High-performance statistical computing
 * Optimization - MM algorithms, proximal algorithms
 * Machine learning
