@@ -15,13 +15,12 @@ Professor of Statistics, Seoul National University
 
 ### Group
 
--	**Postdoctoral fellow**: Junhyeok Byun
 
--	**Ph.D. students**: Hyunjong Lee, Yedarm Seong
+-	**Ph.D. students**: Hyunjong Lee, Yedarm Seong, Mincheol Cho
 
--	**M.S.-Ph.D. students**: Mincheol Cho, Dongwon Kim
+-	**M.S.-Ph.D. students**: Dongwon Kim, Donghyun Lee, Woon Hyung Choi
 
--	**M.S. students**: Kyungjoo Yang, Jeongwon Kim
+-	**M.S. students**: Dal-hyeon Kang, Sangyeon Lee
 
 
 ### Alumni
@@ -33,5 +32,9 @@ Professor of Statistics, Seoul National University
 	3. Dr. Sungdong Lee, August 2023, graduated with *Best Dissertation Award*. Postdoctoral Fellow, School of Medicine, National University of Singapore, Singapore.
 
 - **Masters**
-	+	Ilsang Woo (SK T-Brain), Inkyung Hwang (Begas), Soohwan Jo (SK Telecom), Yujin Lee,  Hanbyul Lee (Purdue), Jihan Jung (SK Telecom), Jiwon Jung (Purdue), Seungji Han (Korea Credit Bureau), Yoonhyung Lee (Kakao Entertainment), Sungmin Park (U of Minnesota), Woojin Ahn (BGZT), Yohan Noh.
+	+	Ilsang Woo (SK T-Brain), Inkyung Hwang (Begas), Soohwan Jo (SK Telecom), Yujin Lee,  Hanbyul Lee (Purdue), Jihan Jung (SK Telecom), Jiwon Jung (Purdue), Seungji Han (Korea Credit Bureau), Yoonhyung Lee (Kakao Entertainment), Sungmin Park (U of Minnesota), Woojin Ahn (BGZT), Yohan Noh, Kyungjoo Yang, Jeongwon Kim
 
+- **Postdoctoral fellow**
+	+ Junhyeok Byun, Assistant Professor, School of Mathematical Sciences, Dalian University of Technology
+
+	
