@@ -3,7 +3,9 @@ permalink: /publication/
 title: "Recent Publications and Preprints"
 ---
 
-* D. Kim, S. Lee, J. Won. Partial Correlation Network Estimation by Semismooth Newton Methods. [Neural Inf. Proc. Syst. (NeurIPS 2025)]. Accepted.
+* M. Cho, Y. Seong, J. Won. Pareto Variational Autoencoder. [Int. Conf. Learn. Represent. (ICLR 20256)], accepted.
+
+* D. Kim, S. Lee, J. Won. Partial Correlation Network Estimation by Semismooth Newton Methods. [Neural Inf. Proc. Syst. (NeurIPS 2025)](https://openreview.net/pdf?id=L3UfIfNxb7), 2025.
 
 * S. Lee, J. Bang, Y. Kim, H. Choi, S.-Y. Oh, J. Won. Learning Massive-scale Partial Correlation Networks in Clinical Multi-omics Studies with HP-ACCORD. Accepted for publication. *The Annals of Applied Statistics*, 2025. [[preprint]](https://arxiv.org/abs/2412.11554)
 
