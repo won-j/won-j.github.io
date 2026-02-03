@@ -3,7 +3,7 @@ permalink: /publication/
 title: "Recent Publications and Preprints"
 ---
 
-* M. Cho, Y. Seong, J. Won. Pareto Variational Autoencoder. [Int. Conf. Learn. Represent. (ICLR 20256)], accepted.
+* M. Cho, Y. Seong, J. Won. Pareto Variational Autoencoder. [Int. Conf. Learn. Represent. (ICLR 2026)], accepted.
 
 * D. Kim, S. Lee, J. Won. Partial Correlation Network Estimation by Semismooth Newton Methods. [Neural Inf. Proc. Syst. (NeurIPS 2025)](https://openreview.net/pdf?id=L3UfIfNxb7), 2025.
 
